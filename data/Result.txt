@@ -1,0 +1,5 @@
+Debra: 48
+khanh: 60
+Group 08: 24
+teho: 36
+debra: 52
