@@ -1,0 +1,10 @@
+lakers.png, What is the name of this sport team?, Lakers
+warriors.png, What is the name of this sport team?, Warriors
+ferrari.png, What is the name of this sport team?, Ferrari
+redbull.png, What is the name of this sport team?, Red Bull
+arsenal.png, What is the name of this sport team?, Arsenal
+manchester united.png, What is the name of this sport team?, Manchester United
+liverpool.png, What is the name of this sport team?, Liverpool
+realmadrid.png, What is the name of this sport team?, Real Madrid
+yankees.png, What is the name of this sport team?, Yankees
+dodgers.png, What is the name of this sport team?, Dodgers
